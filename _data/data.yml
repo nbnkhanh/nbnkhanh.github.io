@@ -65,9 +65,7 @@ projects:
     assignments:
       - title: Mini Search Engine
         link: "Mini-Search-Engine-CS163"
-        tagline: |
-          - Utilized a modified Trie data structure, C/C++ language, and string manipulation techniques to create a mini search engine that imitates Google Search.
-          - Wrote functions that could effectively parse the input query and feed it into the Trie to handle more than 12 different types of Google queries: AND, OR, exact matches, titles, hashtags, wildcards, ranges of numbers, synonyms, combined query, etc."
+        tagline: Implementing a modified Trie DS that can handle 12 different types of query (very similar to Google) to search through a collection of documents.
 
 skills:
     title: Skills &amp; Proficiency
