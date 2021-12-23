@@ -15,7 +15,7 @@ sidebar:
     email: khanhnguyenwa@gmail.com
     phone:
     website: 
-    linkedin: khanh-nguyen-ba-nhat
+    linkedin: nbnkhanh
     xing:
     github: nbnkhanh
     telegram: # add your nickname without '@' sign
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: 
 
     languages:
       - idiom: English
@@ -36,16 +36,6 @@ sidebar:
 
       - idiom: Spanish
         level: Elementary
-
-    interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
