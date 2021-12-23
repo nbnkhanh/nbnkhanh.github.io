@@ -8,16 +8,16 @@ sidebar:
 
     # Profile information
     name: Khanh Nguyen
-    tagline: Junior CS Student at UW-Seattle
-    avatar: 
+    tagline: CS Junior at UW-Seattle
+    avatar:  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: khanhnguyenwa@gmail.com
     phone:
-    website: 
+    website: #do not add http://
     linkedin: nbnkhanh
     xing:
-    github: nbnkhanh
+    github:nbnkhanh
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    pdf:
 
     languages:
       - idiom: English
@@ -40,32 +40,84 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Software Engineer student who seeks an internship and assists on software engineering projects using my technical
-background.
+      Software Engineer student who seeks an internship and assists on software engineering projects using my technical background.
 education:
     - degree: BSc in Computer Science
       university: University of Washington - Seattle
-      time: 2021-2023
+      time: 2021 - 2023
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
 experiences:
-    - role: Incoming Software Engineer Intern
+    - role: Incoming Software Enginner Intern
       time: June 2022 - September 2022
       company: F5 Networks, Seattle, WA
       details: |
-          - Will be work on the yet-to-be-identified project.
-
-    - role: Math Tutor
-      time: June 2020 - July 2021
-      company: Green River College, Auburn, WA
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-          - Held one-to-one tutoring sessions with Green River College students for Calculus series, Linear Algebra, Differential Equations, and Statistics.
-          - Updated tutor notes and cheatsheet website continuously that serve as resources when the tutors forget the material.
-
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
     title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Mini Search Engine
-        link: "Mini-Search-Engine-CS163"
-        tagline: Implementing a modified Trie DS that can handle 12 different types of query (very similar to Google) to search through a collection of documents.
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
 
 skills:
     title: Skills &amp; Proficiency
@@ -81,7 +133,7 @@ skills:
         level: 90%
 
       - name: MATLAB
-        level: 60%
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
